@@ -787,7 +787,8 @@ export default function SaidHomePage() {
                     The Future
                   </a>
                 </li>
-                <li><a href="https://arxiv.org" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">Papers</a></li>
+                {/* Papers link - hidden until ready */}
+                {/* <li><a href="https://arxiv.org" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">Papers</a></li> */}
               </ul>
             </div>
             <div>
